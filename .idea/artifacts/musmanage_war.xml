@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="musmanage:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="musmanage.war">
+      <element id="artifact" artifact-name="musmanage:war exploded" />
+    </root>
+  </artifact>
+</component>
